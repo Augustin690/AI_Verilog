@@ -1,4 +1,4 @@
-#include "ap_int.h"
+//s#include "ap_int.h"
 
 #define n_inputs 100
 #define n_layer1 32
